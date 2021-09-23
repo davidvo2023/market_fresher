@@ -1,58 +1,19 @@
 {
-  "products":
-  [
+  "books": [
     {
       "id": 1,
-      "title": "[what happen] How to create",
-      "price": 2500,
-      "image": "e_pro1.jpg",
-      "favoriotes":44
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky"
     },
     {
       "id": 2,
-       "title": "[what happen] How to create2",
-      "price": 2500,
-      "image": "e_pro2.jpg",
-      "favoriotes":44
+      "title": "Infinite Jest",
+      "author": "David Foster Wallace"
     },
     {
       "id": 3,
-      "title": "[what happen] How to create3",
-      "price": 2500,
-      "image": "e_pro3.jpg",
-      "favoriotes":44
-    }
-    {
-      "id": 4,
-      "title": "[what happen] How to create3",
-      "price": 2500,
-      "image": "e_pro4.jpg",
-      "favoriotes":44
-    }
-    {
-      "id": 4,
-      "title": "[what happen] How to create3",
-      "price": 2500,
-      "image": "e_pro5.jpg",
-      "favoriotes":22
-    }
-  ],
-  "best_products":
-  [
-    {
-      "id": 1,
-      "title": " How to create mobile-optimized",
-      "image": "best_pro1.jpg"
-    },
-    {
-      "id": 2,
-      "title": " How to create mobile-optimized",
-      "image": "best_pro2.jpg"
-    },
-    {
-      "id": 3,
-      "title": " How to create mobile-optimized",
-      "image": "best_pro3.jpg"
+      "title": "Suttree",
+      "author": "Cormac McCarthy"
     }
   ]
 }
