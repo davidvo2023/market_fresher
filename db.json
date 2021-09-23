@@ -1,19 +1,83 @@
 {
-  "books": [
+  "themes": {
+    "header":{
+      "background":"#111111",
+      "color":"#000"
+    },
+    "banner":{
+      "background":"#ea4913",
+      "color":"#000",
+      "text":"LAUCHING OPEN EVENT!"
+    },
+    "introduction":{ 
+      "color":"#000",
+      "text":"WHAT HAPPENED!",
+      "description":" <p>How to create mobile-optimized videos in minutes. Not a designer,</p>
+   <p>every team makes a lot of videos Can be trimmed. Take the first </p>
+   <p>step to your brand's success. How to create </p>
+   <p>mobile-optimized videos in minutes.</p>"
+    },
+    "best_product":{
+      "background":"#fcd22a",
+      "color":"#f96400",
+      "text":"BEST PRODUCT",
+      "description":"How to create mobile-optimized videos in minutes. Not a designer,every team makes a lot of videos Can be trimmed. Take the first"
+    },
+  },
+  "products":
+  [
     {
       "id": 1,
-      "title": "The Brothers Karamazov",
-      "author": "Fyodor Dostoevsky"
+      "title": "[what happen] How to create",
+      "price": 2500,
+      "image": "e_pro1.jpg",
+      "favoriotes":44
     },
     {
       "id": 2,
-      "title": "Infinite Jest",
-      "author": "David Foster Wallace"
+       "title": "[what happen] How to create2",
+      "price": 2500,
+      "image": "e_pro2.jpg",
+      "favoriotes":44
     },
     {
       "id": 3,
-      "title": "Suttree",
-      "author": "Cormac McCarthy"
+      "title": "[what happen] How to create3",
+      "price": 2500,
+      "image": "e_pro3.jpg",
+      "favoriotes":44
+    }
+    {
+      "id": 4,
+      "title": "[what happen] How to create3",
+      "price": 2500,
+      "image": "e_pro4.jpg",
+      "favoriotes":44
+    }
+    {
+      "id": 4,
+      "title": "[what happen] How to create3",
+      "price": 2500,
+      "image": "e_pro5.jpg",
+      "favoriotes":22
+    }
+  ],
+  "best_products":
+  [
+    {
+      "id": 1,
+      "title": " How to create mobile-optimized",
+      "image": "best_pro1.jpg"
+    },
+    {
+      "id": 2,
+      "title": " How to create mobile-optimized",
+      "image": "best_pro2.jpg"
+    },
+    {
+      "id": 3,
+      "title": " How to create mobile-optimized",
+      "image": "best_pro3.jpg"
     }
   ]
 }
