@@ -2,7 +2,7 @@
   "themes": {
     "header":{
       "background":"#000000",
-      "color":"#fffff"
+      "color":"#ffffff"
     },
     "banner":{
       "background":"#ea4913",
@@ -56,6 +56,41 @@
       "title": "[what happen] How to create3",
       "price": 2500,
       "image": "e_pro5.jpg",
+      "favoriotes":22
+    },
+    {
+      "id": 6,
+      "title": "[what happen] How to create",
+      "price": 2500,
+      "image": "e_pro1.jpg",
+      "favoriotes":44
+    },
+    {
+      "id": 7,
+       "title": "[what happen] How to create2",
+      "price": 2500,
+      "image": "e_pro2.jpg",
+      "favoriotes":44
+    },
+    {
+      "id": 8,
+      "title": "[what happen] How to create3",
+      "price": 2500,
+      "image": "e_pro3.jpg",
+      "favoriotes":44
+    },
+    {
+      "id": 9,
+      "title": "[what happen] How to create3",
+      "price": 2500,
+      "image": "e_pro4.jpg",
+      "favoriotes":44
+    },
+    {
+      "id": 10,
+      "title": "[what happen] How to create3",
+      "price": 2500,
+      "image": "e_pro4.jpg",
       "favoriotes":22
     }
   ],
