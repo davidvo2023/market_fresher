@@ -19,13 +19,6 @@
       "color":"#f96400",
       "text":"BEST PRODUCT",
       "description":"How to create mobile-optimized videos in minutes.<br/> Not a designer,every team makes a lot of videos Can be trimmed. Take the first"
-    },
-    "font_size":{ 
-      "primary_title":"50px",
-      "secondary_title":"45px",
-      "primary_description":"20px",
-      "secondary_description":"16px",
-      "link_description":"14px"
     }
   },
   "products":
@@ -99,7 +92,7 @@
       "price": 2500,
       "image": "e_pro4.jpg",
       "favoriotes":22
-    }
+    },
   ],
   "best_products":
   [
