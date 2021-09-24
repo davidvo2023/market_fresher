@@ -21,10 +21,10 @@
       "description":"How to create mobile-optimized videos in minutes.<br/> Not a designer,every team makes a lot of videos Can be trimmed. Take the first"
     },
     "font_size":{
-      "secondary title":"16px",
-      "primary title":"16px",
-      "primary description":"16px",
-      "secondary title":"16px" 
+      "secondary_title":"16px",
+      "primary_title":"16px",
+      "primary_description":"16px",
+      "secondary_title":"16px" 
     },
   },
   "products":
